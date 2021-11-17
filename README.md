@@ -1,4 +1,3 @@
-# labspy02
 # **Struktur Kondisi**
 
 ```sh
