@@ -6,8 +6,7 @@ Nim     : 312110521
 Matkul  : Pemrograman
 ```
 
-## **Tugas**
-## Soal
+## **Soal**
 ![img](screenshot/ss1.png)
 
 ## **Jawab**
